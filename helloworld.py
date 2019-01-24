@@ -1,1 +1,1 @@
-print "Hello World!!"
+print ('s'+10)
